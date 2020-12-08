@@ -17,7 +17,7 @@ LOCAL_STATIC_ANDROID_LIBRARIES := \
     androidx.preference_preference
 
 LOCAL_STATIC_JAVA_LIBRARIES := \
-    org.lineageos.platform.internal
+    VendorSupport-preference
 
 LOCAL_PROGUARD_FLAG_FILES := proguard.flags
 

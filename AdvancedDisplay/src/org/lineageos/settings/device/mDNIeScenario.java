@@ -1,6 +1,7 @@
 /*
  * Copyright (C) 2012 The CyanogenMod Project
  *               2017 The LineageOS Project
+ *               2020 The LibreMobileOS Foundation
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -25,7 +26,7 @@ import android.support.v7.preference.Preference.OnPreferenceChangeListener;
 import android.support.v7.preference.PreferenceManager;
 import android.util.AttributeSet;
 
-import org.lineageos.internal.util.FileUtils;
+import io.libremobileos.support.util.FileUtils;
 
 public class mDNIeScenario extends ListPreference implements OnPreferenceChangeListener {
 
