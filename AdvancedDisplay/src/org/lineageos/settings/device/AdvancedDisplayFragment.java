@@ -25,7 +25,7 @@ import android.view.MenuItem;
 
 import org.lineageos.settings.device.R;
 
-import io.libremobileos.support.util.FileUtils;
+import com.libremobileos.support.util.FileUtils;
 
 public class AdvancedDisplayFragment extends PreferenceFragment {
     private mDNIeScenario mmDNIeScenario;

@@ -32,7 +32,7 @@ import androidx.preference.Preference;
 import androidx.preference.PreferenceFragment;
 import androidx.preference.SwitchPreference;
 
-import io.libremobileos.support.util.ScreenType;
+import com.libremobileos.support.util.ScreenType;
 
 public class SamsungDozeSettings extends PreferenceFragment
         implements CompoundButton.OnCheckedChangeListener, Preference.OnPreferenceChangeListener {

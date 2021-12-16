@@ -26,7 +26,7 @@ import android.support.v7.preference.Preference.OnPreferenceChangeListener;
 import android.support.v7.preference.PreferenceManager;
 import android.util.AttributeSet;
 
-import io.libremobileos.support.util.FileUtils;
+import com.libremobileos.support.util.FileUtils;
 
 public class mDNIeAccessibility extends ListPreference implements OnPreferenceChangeListener {
 
